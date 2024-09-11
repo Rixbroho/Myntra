@@ -1,0 +1,36 @@
+.color{
+    color: #282c3f;
+}
+
+.logo{
+    width: 70px;
+}
+
+.navbar-nav li>a{
+    text-transform: capitalize;
+}
+
+.owl-item>img{
+    height: 300px;
+    width: auto;
+}
+
+.cart>.container img{
+    width: 16.6667%;
+}
+
+footer{
+    background-color: #FAFBFC;
+}
+
+footer p{
+    color: black;
+}
+
+footer a{
+    color: gray;
+}
+
+footer li {
+    font-size: 13px;
+}
